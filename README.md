@@ -1,7 +1,7 @@
 # Life in the Wild
 
-* Reconnect with nature through this striking portfolio.
-* Using Flexbox for responsiveness.
+* reConnect with nature through this striking portFolio
+* uses FlexBox for responsiveness
 
 ## Stack
 
